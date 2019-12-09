@@ -20,7 +20,7 @@ The features supported on the app are:-
 
 
 ## Setup
-The repository is an android project. If you wish to install the app without any changes, you can use the apk [here](./app-debug.apk). You can open the respository in Android studio if you want to tweak the app.
+The repository is an android project. If you wish to install the app without any changes, you can use the apk [here](https://drive.google.com/open?id=1uagKMCPiJSCv0AgZLDpvl3ygxNaS563f). You can open the respository in Android studio if you want to tweak the app.
 **The app requires external storage access. You will have to provide it manually in the settings for the app to work**
 
 If you are using a different hosted server, you will have to update the url variable [here](https://github.com/shiva-reddy-uic/arify-android-client/blob/master/app/src/main/java/com/example/virosample/ApiClient.java#L39).
